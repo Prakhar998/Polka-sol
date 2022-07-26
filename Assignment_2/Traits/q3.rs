@@ -1,3 +1,4 @@
+
 use std::ops;
 
 // Implement fn multiply to make the code work.
